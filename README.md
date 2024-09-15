@@ -8,6 +8,10 @@ About me:
 - Love to sing and play guitar
 - Foodie who loves trying new foods
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jsolthomsen/30-nites-of-code)  
+  ![@jsolthomsen #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jsolthomsen)
+
 <!--
 **jsolthomsen/jsolthomsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
