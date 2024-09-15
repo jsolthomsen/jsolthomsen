@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there traveler 👋
+
+My name is Jeppe Solvang Thomsen, and I am currently studing at Business Academy Aarhus / Erhvervsakademi Aarhus (EAAA)!
+
+About me:
+- Based in Aarhus, Denmark
+- Learning different languages, currently Chinese (Mandarin)
+- Love to sing and play guitar
+- Foodie who loves trying new foods
 
 <!--
 **jsolthomsen/jsolthomsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
